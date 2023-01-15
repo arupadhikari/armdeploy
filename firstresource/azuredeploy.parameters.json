@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageName": {
-            "value": "sinarp"
+            "value": "sinarp321"
         },
         "storageSKU": {
             "value": "Premium_LRS"
