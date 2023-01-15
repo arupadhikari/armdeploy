@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageName": {
-            "value": "tststorage"
+            "value": "sinarp"
         },
         "storageSKU": {
             "value": "Premium_LRS"
